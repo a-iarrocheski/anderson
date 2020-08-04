@@ -1,0 +1,33 @@
+.leftBar {
+    background-color: black;
+    color: ghostwhite;
+    width: 220px;
+    max-width: 250px;
+    float: left;
+    position: fixed;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#name {
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.mypic {
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    align-self: center;
+    position: relative;
+    margin-top: 160px;
+}
+
+.menu   {
+    margin-top: 60px;
+    line-height: 30px;
+}

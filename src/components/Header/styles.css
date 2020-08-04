@@ -1,0 +1,9 @@
+header#main-header {
+    background-color: black;
+    width: 100%;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    color: ghostwhite;
+    height: 45px;
+}

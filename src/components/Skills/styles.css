@@ -1,0 +1,28 @@
+.skills {
+    width: 75%;
+    margin-left: 240px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    word-wrap: normal;
+    justify-content: space-around;
+    position: relative;
+}
+
+.mySkill    {
+    margin: 15px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.skillsHeader {
+    font-size: 55px;
+    width: 75%;
+    float: left;
+    margin-left: 240px;
+    width: 80%;
+}
+
+p {
+    font-size: 13px;
+}
