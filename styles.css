@@ -67,9 +67,17 @@ button {
     font-weight: 600;
 }
 
-.refer {
+#refer {
     margin-top: 30px;
     width: 250px;
     display: flex;
     justify-content: space-between;
+}
+
+.aboutContent {
+    margin: 15px;
+}
+
+.showAbout {
+    visibility: hidden;
 }
