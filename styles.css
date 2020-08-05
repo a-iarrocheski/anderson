@@ -75,7 +75,8 @@ button {
 }
 
 .aboutContent {
-    margin: 15px;
+    margin: 25px;
+    text-align: justify;
 }
 
 .showAbout {
