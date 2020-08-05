@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(242, 251, 255);
+    font-family: 'Roboto Mono', monospace;
+    height: 100%;
+}
+
+header {
+    border-bottom: black solid 1px;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+    font-weight: 600;
+}
+
+footer {
+    bottom: 0;
+    border-top: black 1px solid;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 30px;
+}
+
+button {
+    border: 0;
+    background-color: rgba(255, 255, 255, 0);
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    width: 130px;
+}
+
+.name-header {
+    padding-left: 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    height: 90%;
+}
+
+.myPic {
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.name {
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.title {
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.refer {
+    margin-top: 30px;
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
