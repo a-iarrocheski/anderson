@@ -3,4 +3,15 @@
     color: whitesmoke;
     height: 40px;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.name {
+    padding-left: 10px;
+}
+
+.links {
+    padding-right: 10px;
 }
