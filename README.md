@@ -12,4 +12,4 @@ You can check my page here > https://and-stuber.github.io/anderson/ :rocket:
 *Student of Software Development at TRYBE, a completely current and digital company,
 modern and connected with the best of the digital world.*
 
-*In the era of cloud computing, the Internet of Things and Computational Intelligence, the subjects that are passionate about are always online for the knowledge and experience that technology can bring.*
+*In the era of cloud computing, the Internet of Things and Computational Intelligence, the subjects that I'm passionate about. Always online for the knowledge and experience that technology can bring.*
