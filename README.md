@@ -3,7 +3,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/186861/anderson)](https://pt.stackoverflow.com/users/186861/anderson)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547991684432&text=Olá!)](https://api.whatsapp.com/send?phone=5547991684432&text=Olá!)
 
-You can check my page here > https://and-stuber.github.io/anderson/ :rocket:
+http://and.tec.br/ :rocket:
 
 ### Anderson Iarrocheski
 **Estudante de Desenvolvimento de Software | Trybe** <br>
